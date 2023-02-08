@@ -12,7 +12,7 @@ defmodule HelloWorld do
       "Hello PTR"
 
   """
-  def hello do
+  def hello() do
     "Hello PTR"
   end
 end
